@@ -1,0 +1,25 @@
+team_name: SmartHire-AI
+
+primary_contact_name: Suhani Gohil
+
+primary_contact_email: YOUR_EMAIL
+
+primary_contact_phone: YOUR_PHONE
+
+github_repository_url: TO_BE_ADDED
+
+sandbox_demo_url: TO_BE_ADDED
+
+ai_tools_used:
+  - ChatGPT
+
+compute_environment: Windows 11, Python 3.12
+
+team_members:
+  - name: Suhani Gohil
+
+methodology_summary: >
+  Candidates are ranked using weighted scoring based on
+  AI/ML skills, search and ranking expertise, retrieval systems,
+  vector database experience, recruiter engagement signals,
+  availability signals, and years of experience.
